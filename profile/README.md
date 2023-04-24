@@ -29,7 +29,7 @@ Our team of experts is dedicated to working closely with clients to identify the
 - **Focus on outcomes:** We focus on delivering measurable outcomes for our clients, such as improved operational efficiency, cost savings, and revenue growth.
 
 ## Success Stories
-
+![Ninja](https://github.com/Brain-Fusion-Labs/.github/blob/f7b6f7347a760be642ea39a0059d218348373c77/opioninja.png)
 Coming soon.
 
 ## Technologies and Tools
