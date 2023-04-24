@@ -58,6 +58,7 @@ We have a wealth of experience in Big Data Analytics, using tools such as Hadoop
 
 Our team consists of highly skilled and experienced professionals who are passionate about AI and dedicated to delivering exceptional results for our clients. Our expertise in these technologies allows us to develop cutting-edge solutions that address our clients' unique challenges and requirements.
 
+![Brain](brain.png)
 
 ## Our Team
 
