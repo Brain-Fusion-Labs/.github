@@ -54,7 +54,7 @@ We are exploring the use of Reinforcement Learning for developing autonomous sys
 
 ### Big Data Analytics
 
-We have a wealth of experience in Big Data Analytics, using tools such as Hadoop, Spark, and Cassandra to analyze massive datasets. We have developed solutions for predictive maintenance, fraud detection, and customer segmentation, among others.
+We have a wealth of experience in Big Data Analytics. We have developed solutions for predictive maintenance, fraud detection, and customer segmentation, among others.
 
 Our team consists of highly skilled and experienced professionals who are passionate about AI and dedicated to delivering exceptional results for our clients. Our expertise in these technologies allows us to develop cutting-edge solutions that address our clients' unique challenges and requirements.
 
