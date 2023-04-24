@@ -1,5 +1,5 @@
 # Brain Fusion Labs
-![Brain](brain.png)
+![Brain](https://github.com/Brain-Fusion-Labs/.github/blob/f180812db25775c67d0d868aa0f4b2b34e75800b/brain.png)
 Brain Fusion Labs is an AI consulting and software development company committed to empowering businesses with bespoke AI solutions and expert guidance. We are passionate about helping our clients harness the power of artificial intelligence to enhance operational efficiency, drive innovation, and secure a competitive advantage in their respective industries.
 
 ## Our Services
