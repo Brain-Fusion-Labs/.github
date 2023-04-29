@@ -33,7 +33,7 @@ Our team of experts is dedicated to working closely with clients to identify the
 Coming soon.
 
 ## Technologies and Tools
-
+![Bots](bots1.png)
 At Brain Fusion Labs, we use advanced technologies and tools to develop our AI solutions. Our expertise includes:
 
 ### Natural Language Processing (NLP)
