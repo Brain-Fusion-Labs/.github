@@ -71,7 +71,7 @@ We are exploring the use of Reinforcement Learning for developing autonomous sys
 
 Brain Fusion Labs was founded by Daniel Banta and TAYLOR.WTF, two accomplished professionals with extensive experience in AI, machine learning, software development, and engineering. Our team consists of highly skilled and experienced professionals who are passionate about AI and dedicated to delivering exceptional results for our clients.
 
-![Team](https://github.com/Brain-Fusion-Labs/.github/blob/d8c0137de2693bea3f855a8ccb0052dcf052b576/team2.png)
+![Team]([https://github.com/Brain-Fusion-Labs/.github/blob/d8c0137de2693bea3f855a8ccb0052dcf052b576/team2.png](https://github.com/Brain-Fusion-Labs/.github/blob/568c2eb178c4ba1e6cc75498c311673fa4d7c6d5/team2.png))
 
 ## News and Updates
 
